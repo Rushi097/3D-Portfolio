@@ -9,7 +9,6 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -18,17 +17,18 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import figma from "./tech/figma.png";
+
 
 // import meta from "./company/meta.png";
 import Leopardruns from "./company/Leopardruns.png";
 import studykosh from "./company/studykosh.png";
 import PrimaThink from "./company/PrimaThink.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import portfolio from "./portfolio.png";
+import metaverse from "./metaverse.png";
+import nikeshoessite from "./nikeshoessite.png";
 
 export {
   logo,
@@ -41,7 +41,6 @@ export {
   close,
   css,
   docker,
-  figma,
   git,
   html,
   javascript,
@@ -50,13 +49,13 @@ export {
   reactjs,
   redux,
   tailwind,
-  typescript,
   threejs,
-  //  meta,
+  figma,
+  // meta,
   Leopardruns,
   studykosh,
   PrimaThink,
-  carrent,
-  jobit,
-  tripguide,
+  portfolio,
+  metaverse,
+  nikeshoessite,
 };
